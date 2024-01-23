@@ -12,7 +12,7 @@ int main()
 {
 string name1="Jonnathan Quijada";
 hello1Function(name1);
-string name2="Jonnathan Quijada";
+string name2="Eric Oh";
 hello2Function(name2);
 return 0;
 }

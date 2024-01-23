@@ -1,6 +1,6 @@
 // Rajit Swarup
 // Jonnathan Quijada
-//
+// Eric Oh
 // Description: Hello World in C++
 //============================================================
 main
@@ -28,5 +28,3 @@ int hello1Function(string name1)
 cout << "hello World " << name1 << endl;
 return 0;
 }
-Lab 2
-hello1Function

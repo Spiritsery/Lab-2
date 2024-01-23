@@ -10,7 +10,7 @@ int hello1Function(string name1);
 int hello2Function(string name2);
 int main()
 {
-string name1="your name1";
+string name1="Eric Oh";
 hello1Function(name1);
 string name2="your name2";
 hello2Function(name2);

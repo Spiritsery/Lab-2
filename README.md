@@ -40,3 +40,4 @@ int hello2Function(string name2)
 cout << "hello World " << name2 << endl;
 return 0;
 }
+https://forum.qt.io/topic/149758/macos-project-error-failed-to-parse-default-search-paths-from-compiler-output
